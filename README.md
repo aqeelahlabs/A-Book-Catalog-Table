@@ -4,7 +4,7 @@ A simple web page that displays a catalog of books in a table, showing each book
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+[View the project](https://aqeelahlabs.github.io/A-Book-Catalog-Table/)
 
 ## Features
 
