@@ -28,7 +28,7 @@ A simple web page that displays a catalog of books in a table, showing each book
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/A-Book-Catalog-Table.git
 ```
 2. Open `index.html` in your browser.
 
